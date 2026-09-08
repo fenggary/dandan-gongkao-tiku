@@ -1,7 +1,7 @@
 /* ============ 数据层：题库索引与按需加载 ============ */
 const CATS = [
   { id: "guokao",    name: "国考",   desc: "中央机关公务员考试（2000–2026）", subjects: { xingce: "行测", shenlun: "申论" } },
-  { id: "shengkao",  name: "省考",   desc: "各省公务员考试（2004–2026）",     subjects: { xingce: "行测", shenlun: "申论" } },
+  { id: "shengkao",  name: "省考",   desc: "广东省公务员考试（2004–2026）",   subjects: { xingce: "行测", shenlun: "申论" } },
   { id: "shiyebian", name: "事业编", desc: "事业单位考试（公基/职测/综应）",   subjects: { gongji: "公基", zongying: "综应" } }
 ];
 
