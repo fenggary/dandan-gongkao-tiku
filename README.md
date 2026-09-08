@@ -44,7 +44,7 @@
 本版本基于开源项目 [gongkao-tiku](https://github.com/linfukai186-arch/gongkao-tiku) 二次定制：
 
 - 品牌名称替换为"丹丹 · 专属公考刷题库"，含专属页脚标识。
-- 访问密码由 `kaogong2026` 更换为 `yangdan666`（SHA-256 哈希存储于 `lock.js`）。
+- 访问密码
 - 题库数据、课程体系与原版保持一致。
 
 ## 本地开发
